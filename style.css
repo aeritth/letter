@@ -71,7 +71,7 @@ border-bottom: 100px solid var(--envelope-cover);
 }
 .letter > .text {
 	font-family: 'Smoolthan', sans-serif;
-	font-size: 8px;
+	font-size: 7px;
 	color: var(--txt-color);
 	text-align: left;
 } 
