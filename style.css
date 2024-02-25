@@ -9,7 +9,7 @@
 	--heart-color: rgb(84, 6, 156);
 }
 body{
-    background-image: url(../sky5.gif);
+    background-image: url(./sky5.gif);
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
